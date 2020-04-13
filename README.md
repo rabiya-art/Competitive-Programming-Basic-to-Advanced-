@@ -1,1 +1,1 @@
-# Compititive-Programming-Basic-to-Advanced-
+# Competitive-Programming-Basic-to-Advanced-
