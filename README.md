@@ -71,7 +71,7 @@
     - [Unicode](#unicode)
     - [Endianness](#endianness)
     - [Networking](#networking)
-- [System Design, Scalability, Data Handling](#system-design-scalability-data-handling) (if you have 4+ years experience)
+- [System Design, Scalability, Data Handling](#system-design-scalability-data-handling) (if you have 2+ years experience)
 - [Final Review](#final-review)
 - [Coding Question Practice](#coding-question-practice)
 - [Coding exercises/challenges](#coding-exerciseschallenges)
