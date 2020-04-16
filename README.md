@@ -14,9 +14,7 @@
 
 ## What is it?
 
-This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
-
-![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
+This is my multi-month study plan for going from Backend developer to software Development engineer for a large company.
 
 This is meant for **new software engineers** or those switching from
 software/web development to software engineering (where computer science knowledge is required). If you have
@@ -150,8 +148,8 @@ If you want to be a reliability engineer or operations engineer, study more from
 ## Don't feel you aren't smart enough
 
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
-- [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-- [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+- [The myth of the Genius Programmer]
+- [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech]
 
 ## About Video Resources
 
@@ -182,10 +180,10 @@ You need to be very comfortable in the language and be knowledgeable.
 
 - [ ] **Learn C**
     - C is everywhere. You'll see examples in books, lectures, videos, *everywhere* while you're studying.
-    - [ ] [C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
+    - [ ] [C Programming Language, Vol 2]
         - This is a short book, but it will give you a great handle on the C language and if you practice it a little
             you'll quickly get proficient. Understanding C helps you understand how programs and memory work.
-        - [answers to questions](https://github.com/lekkas/c-algorithms)
+        - [answers to questions]
 
 - [ ] **How computers process a program:**
     - [ ] [How CPU executes a program (video)]
@@ -223,3 +221,20 @@ You can see my code here:
 You don't need to memorize the guts of every algorithm.
 
 Write code on a whiteboard or paper, not a computer. Test with some sample inputs. Then test it out on a computer.
+
+## Why use it?
+
+When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, anything about trees, or how to
+traverse a graph. If I had to code a sorting algorithm, I can tell ya it wouldn't have been very good.
+Every data structure I've ever used was built into the language, and I didn't know how they worked
+under the hood at all. I've never had to manage memory unless a process I was running would give an "out of
+memory" error, and then I'd have to find a workaround. I've used a few multidimensional arrays in my life and
+thousands of associative arrays, but I've never created data structures from scratch.
+
+It's a long plan. It may take you months. If you are familiar with a lot of this already it will take you a lot less time.
+
+## How to use it
+
+Everything below is an outline, and you should tackle the items in order from top to bottom.
+
+I'm using Github's special markdown flavor, including tasks lists to check progress.
