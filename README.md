@@ -1,4 +1,7 @@
+
 # 30 Days of Competitive Code / Interview Preprations for Google,Facebook,Amazon,Flipcart,Capgemini,Apple,Microsoft etc.
+# Hello Hackers!!!
+# I am Yasin Shah Incoming SDE at Google and Currently 3+ Overseas Technical Mentor in Data Science, Machine learning and Python. I have worked with 3+ IT Companies in India before 2 years.
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
 > but it grew to the large list you see today. After going through this study plan, [I got hired
