@@ -12,21 +12,6 @@
 >
 > *Best of luck to you!*
 
-## What is it?
-
-This is my multi-month study plan for going from Backend developer to software Development engineer for a large company.
-
-This is meant for **new software engineers** or those switching from
-software/web development to software engineering (where computer science knowledge is required). If you have
-many years of experience and are claiming many years of software engineering experience, expect a harder interview.
-
-If you have many years of software/web development experience, note that large software companies like Google, Amazon,
-Facebook and Microsoft view software engineering as different from software/web development, and they require computer science knowledge.
-
-If you want to be a reliability engineer or operations engineer, study more from the optional list (networking, security).
-
----
-
 ## Table of Contents
 
 - [What is it?](#what-is-it)
@@ -143,6 +128,21 @@ If you want to be a reliability engineer or operations engineer, study more from
 - [Video Series](#video-series)
 - [Computer Science Courses](#computer-science-courses)
 - [Papers](#papers)
+
+---
+
+## What is it?
+
+This is my multi-month study plan for going from Backend developer to software Development engineer for a large company.
+
+This is meant for **new software engineers** or those switching from
+software/web development to software engineering (where computer science knowledge is required). If you have
+many years of experience and are claiming many years of software engineering experience, expect a harder interview.
+
+If you have many years of software/web development experience, note that large software companies like Google, Amazon,
+Facebook and Microsoft view software engineering as different from software/web development, and they require computer science knowledge.
+
+If you want to be a reliability engineer or operations engineer, study more from the optional list (networking, security).
 
 ---
 ## Don't feel you aren't smart enough
