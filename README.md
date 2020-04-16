@@ -147,3 +147,79 @@ If you want to be a reliability engineer or operations engineer, study more from
 - [Papers](#papers)
 
 ---
+## Don't feel you aren't smart enough
+
+- Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
+- [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
+- [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+
+## About Video Resources
+
+Some videos are available only by enrolling in a Coursera or EdX class. These are called MOOCs.
+Sometimes the classes are not in session so you have to wait a couple of months, so you have no access.
+
+    I'd appreciate your help to add free and always-available public sources, such as YouTube videos to accompany the online course videos.
+    I like using university lectures.
+    
+## Pick One Language for the Interview
+
+You can use a language you are comfortable in to do the coding part of the interview, but for large companies, these are solid choices:
+
+- C++
+- Java
+- Python
+
+You could also use these, but read around first. There may be caveats:
+
+- JavaScript
+- Ruby
+
+Here is an article I wrote about choosing a language for the interview: [Pick One Language for the Coding Interview](https://startupnextdoor.com/important-pick-one-language-for-the-coding-interview/)
+
+You need to be very comfortable in the language and be knowledgeable.
+
+## Prerequisite Knowledge
+
+- [ ] **Learn C**
+    - C is everywhere. You'll see examples in books, lectures, videos, *everywhere* while you're studying.
+    - [ ] [C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
+        - This is a short book, but it will give you a great handle on the C language and if you practice it a little
+            you'll quickly get proficient. Understanding C helps you understand how programs and memory work.
+        - [answers to questions](https://github.com/lekkas/c-algorithms)
+
+- [ ] **How computers process a program:**
+    - [ ] [How CPU executes a program (video)]
+    - [ ] [How computers calculate - ALU (video)]
+    - [ ] [Registers and RAM (video)]
+    - [ ] [The Central Processing Unit (CPU) (video)]
+    - [ ] [Instructions and Programs (video)]
+
+## The Daily Plan
+
+Some subjects take one day, and some will take multiple days. Some are just learning with nothing to implement.
+
+Each day I take one subject from the list below, watch videos about that subject, and write an implementation in:
+- C - using structs and functions that take a struct * and something else as args.
+- C++ - without using built-in types
+- C++ - using built-in types, like STL's std::list for a linked list
+- Python - using built-in types (to keep practicing Python)
+- and write tests to ensure I'm doing it right, sometimes just using simple assert() statements
+- You may do Java or something else, this is just my thing.
+
+You don't need all these. You need only [one language for the interview](#pick-one-language-for-the-interview).
+
+Why code in all of these?
+- Practice, practice, practice, until I'm sick of it, and can do it with no problem (some have many edge cases and bookkeeping details to remember)
+- Work within the raw constraints (allocating/freeing memory without help of garbage collection (except Python or Java))
+- Make use of built-in types so I have experience using the built-in tools for real-world use (not going to write my own linked list implementation in production)
+
+I may not have time to do all of these for every subject, but I'll try.
+
+You can see my code here:
+ - [C]
+ - [C++]
+ - [Python]
+
+You don't need to memorize the guts of every algorithm.
+
+Write code on a whiteboard or paper, not a computer. Test with some sample inputs. Then test it out on a computer.
